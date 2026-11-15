@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://carstauto-ship-it.github.io/panel-wp-preview/sitemap.xml
